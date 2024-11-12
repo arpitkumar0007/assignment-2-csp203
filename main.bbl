@@ -1,0 +1,187 @@
+\begin{thebibliography}{10}
+
+\bibitem{or1200_soc}
+or1200 soc.
+\newblock Available: $https://opencores.org/projects/or1200_soc$.
+
+\bibitem{CVA62024}
+Cva6 risc-v cpu, 2024.
+\newblock Available: https://github.com/openhwgroup/cva6.
+
+\bibitem{RISC-V2024}
+Risc-v test soc, 2024.
+\newblock Available: $https://github.com/ultraembedded/riscv_soc$.
+
+\bibitem{Abdel-Hamid2006}
+A.~Abdel-Hamid et~al.
+\newblock Finite state machine ip watermarking: A tutorial.
+\newblock In {\em First NASA/ESA Conference on Adaptive Hardware and Systems
+  (AHS’06)}, 2006.
+
+\bibitem{Alkabani2007}
+Y.~Alkabani and F.~Koushanfar.
+\newblock Active hardware metering for intellectual property protection and
+  security.
+\newblock In {\em USENIX Security Symposium}, 2007.
+
+\bibitem{Anandakumar2022}
+N.~N. Anandakumar et~al.
+\newblock Rethinking watermark: Providing proof of ip ownership in modern socs,
+  2022.
+\newblock IACR Cryptol. ePrint Arch.
+
+\bibitem{Bakken2004}
+D.~E. Bakken et~al.
+\newblock Data obfuscation: Anonymity and desensitization of usable data sets.
+\newblock {\em IEEE Security \& Privacy}, 2004.
+
+\bibitem{Chang2016}
+C.-H. Chang et~al.
+\newblock Hardware ip watermarking and fingerprinting.
+\newblock In {\em Secure System Design and Trustable Computing}. Springer,
+  2016.
+
+\bibitem{Chapman2000}
+R.~Chapman and T.~Durrani.
+\newblock Ip protection of dsp algorithms for system on chip implementation.
+\newblock {\em IEEE Transactions on Signal Processing}, 2000.
+
+\bibitem{Cui2011}
+A.~Cui et~al.
+\newblock A robust fsm watermarking scheme for ip protection of sequential
+  circuit design.
+\newblock {\em IEEE Transactions on Computer-Aided Design of Integrated
+  Circuits and Systems}, 2011.
+
+\bibitem{Cui2015}
+A.~Cui et~al.
+\newblock Dynamic watermarking on scan design for hard ip protection.
+\newblock {\em IEEE Transactions on Information Forensics and Security}, 2015.
+
+\bibitem{Das2022}
+U.~Das, M.~R. Muttaki, M.~M. Tehranipoor, and F.~Farahmandi.
+\newblock Adwil: A zero-overhead analog device watermarking using inherent ip
+  features.
+\newblock In {\em 2022 IEEE International Test Conference (ITC)}, 2022.
+
+\bibitem{b}
+Working~Group for Design IP~Encryption and Rights Management.
+\newblock Recommended practice for encryption and management of electronic
+  design intellectual property (ip).
+\newblock In {\em IEEE Std 1735-2014}. 2015.
+
+\bibitem{Harsh2008}
+P.~Harsh and R.~Newman.
+\newblock An overlay solution to ip multicast address collision prevention.
+\newblock In {\em Proceedings of the IASTED International Conference on
+  Internet and Multimedia Systems and Applications, EuroIMSA '08}, pages
+  156--161. ACTA Press, 2008.
+
+\bibitem{Hashemi2022}
+M.~Hashemi et~al.
+\newblock Garbled eda: Privacy preserving electronic design automation, 2022.
+\newblock Available: https://arxiv.org/abs/2208.03822.
+
+\bibitem{Hong1998}
+I.~Hong and M.~Potkonjak.
+\newblock Techniques for intellectual property protection of dsp designs.
+\newblock In {\em Proceedings of the 1998 IEEE International Conference on
+  Acoustics, Speech and Signal Processing, ICASSP’98 (Cat. No. 98CH36181)}.
+  IEEE, 1998.
+
+\bibitem{Iehira2018}
+K.~Iehira et~al.
+\newblock Spoofing attack using bus-off attacks against a specific ecu of the
+  can bus.
+\newblock In {\em 2018 15th IEEE Annual Consumer Communications \& Networking
+  Conference (CCNC)}, 2018.
+
+\bibitem{Kahng2001}
+A.~B. Kahng et~al.
+\newblock Constraint-based watermarking techniques for design ip protection.
+\newblock {\em IEEE Transactions on Computer-Aided Design of Integrated
+  Circuits and Systems}, 2001.
+
+\bibitem{Kamali2022}
+H.~M. Kamali, K.~Z. Azar, F.~Farahmandi, and M.~Tehranipoor.
+\newblock Advances in logic locking: Past, present, and prospects, 2022.
+\newblock Cryptology ePrint Archive.
+
+\bibitem{Karmakar2022}
+R.~Karmakar et~al.
+\newblock A cellular automata guided finite-state-machine watermarking strategy
+  for ip protection of sequential circuits.
+\newblock {\em IEEE Transactions on Emerging Topics in Computing}, 2022.
+
+\bibitem{Kibria2022}
+R.~Kibria, N.~Farzana, F.~Farahmandi, and M.~Tehranipoor.
+\newblock Fsmx: Finite state machine extraction from flattened netlist with
+  application to security.
+\newblock In {\em 2022 IEEE 40th VLSI Test Symposium (VTS)}, 2022.
+
+\bibitem{Kibria2022_RTL}
+R.~Kibria, M.~Sazadur Rahman, F.~Farahmandi, and M.~Tehranipoor.
+\newblock Rtl-fsmx: Fast and accurate finite state machine extraction at the
+  rtl for security applications.
+\newblock In {\em 2022 IEEE International Test Conference (ITC)}, 2022.
+
+\bibitem{Lewandowski2012}
+M.~Lewandowski et~al.
+\newblock A novel method for watermarking sequential circuits.
+\newblock In {\em 2012 IEEE International Symposium on Hardware-Oriented
+  Security and Trust}, 2012.
+
+\bibitem{Marchand2014}
+C.~Marchand et~al.
+\newblock Ip watermark verification based on power consumption analysis.
+\newblock In {\em 2014 27th IEEE International System-on-Chip Conference
+  (SOCC)}, 2014.
+
+\bibitem{Mehta2022}
+D.~Mehta, N.~Mondol, F.~Farahmandi, and M.~Tehranipoor.
+\newblock Aime: Watermarking ai models by leveraging errors.
+\newblock In {\em 2022 Design, Automation Test in Europe Conference Exhibition
+  (DATE)}, 2022.
+
+\bibitem{Oliveira2001}
+A.~Oliveira.
+\newblock Techniques for the creation of digital watermarks in sequential
+  circuit designs.
+\newblock {\em IEEE Transactions on Computer-Aided Design of Integrated
+  Circuits and Systems}, 2001.
+
+\bibitem{Rashid1999}
+A.~Rashid et~al.
+\newblock Hierarchical watermarking for protection of dsp filter cores.
+\newblock In {\em Proceedings of the IEEE 1999 Custom Integrated Circuits
+  Conference (Cat. No.99CH36327)}, 1999.
+
+\bibitem{a}
+B.~Shakya, M.~Tehranipoor, S.~Bhunia, and D.~Forte.
+\newblock Introduction to hardware obfuscation: Motivation, methods and
+  evaluation.
+\newblock In {\em Hardware Protection through Obfuscation}, pages 3--32.
+  Springer, 2017.
+
+\bibitem{Tehranipoor2011}
+M.~Tehranipoor and C.~Wang.
+\newblock {\em Introduction to hardware security and trust}.
+\newblock Springer Science \& Business Media, 2011.
+
+\bibitem{Torunoglu2000}
+I.~Torunoglu and E.~Charbon.
+\newblock Watermarking-based copyright protection of sequential functions.
+\newblock {\em IEEE Journal of Solid-State Circuits}, 2000.
+
+\bibitem{Yasin2020}
+M.~Yasin et~al.
+\newblock Removal attacks on logic locking and camouflaging techniques.
+\newblock {\em IEEE Transactions on Emerging Topics in Computing}, 2020.
+
+\bibitem{Ziener2006}
+D.~Ziener and J.~Teich.
+\newblock Fpga core watermarking based on power signature analysis.
+\newblock In {\em 2006 IEEE International Conference on Field Programmable
+  Technology}, 2006.
+
+\end{thebibliography}

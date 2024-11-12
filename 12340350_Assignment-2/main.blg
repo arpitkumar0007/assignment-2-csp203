@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: main.aux
+Reallocating 'name_of_file' (item size: 1) to 6 items.
+The style file: plain.bst
+Reallocating 'name_of_file' (item size: 1) to 11 items.
+Database file #1: references.bib
+Warning--to sort, need author or key in RISC-V2024
+Warning--to sort, need author or key in or1200_soc
+Warning--to sort, need author or key in CVA62024
+Warning--empty publisher in b
+You've used 32 entries,
+            2118 wiz_defined-function locations,
+            669 strings with 9132 characters,
+and the built_in function-call counts, 8657 in all, are:
+= -- 791
+> -- 434
+< -- 2
++ -- 174
+- -- 138
+* -- 439
+:= -- 1460
+add.period$ -- 98
+call.type$ -- 32
+change.case$ -- 150
+chr.to.int$ -- 0
+cite$ -- 36
+duplicate$ -- 385
+empty$ -- 780
+format.name$ -- 138
+if$ -- 1858
+int.to.chr$ -- 0
+int.to.str$ -- 32
+missing$ -- 27
+newline$ -- 160
+num.names$ -- 58
+pop$ -- 251
+preamble$ -- 1
+purify$ -- 119
+quote$ -- 0
+skip$ -- 269
+stack$ -- 0
+substring$ -- 215
+swap$ -- 59
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 126
+warning$ -- 4
+while$ -- 64
+width$ -- 34
+write$ -- 321
+(There were 4 warnings)
